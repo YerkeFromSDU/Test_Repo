@@ -1,7 +1,7 @@
 <?php
-$txt1 = "Learn PHP";
+$txt1 = "I am learning PHP from W3school";
 $txt2 = "W3Schools.com";
-$x = 5;
+$x = 20;
 $y = 4;
 
 echo "<h2>" . $txt1 . "</h2>";
