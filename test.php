@@ -1,3 +1,3 @@
 <?php
-echo "I am testing now";
+echo "It's last commit";
 ?>
